@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
 
-  # Hi there, I'm Mustafa Radwan 👋
+  # Hi there, I'm Mustafa RIDVAN 👋
 
   ### 🎓 Computer Engineering Student @ Fırat University (2022-2026)
   
