@@ -7,7 +7,8 @@
   ### 🎓 Computer Engineering Student @ Fırat University (2022-2026)
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2E91F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(MERN);AI+Automation+Engineer+%F0%9F%A4%96;Building+Smart+Agents+%26+Workflows;Always+Learning+New+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2E91F7&center=true&vCenter=true&width=500&lines=AI+Automation+Engineer+%F0%9F%A4%96;Building+Smart+Agents+%26+Workflows;
+      Full+Stack+Developer+(MERN);Always+Learning+New+Tech" alt="Typing SVG" />
   </a>
 
   <p align="center">
